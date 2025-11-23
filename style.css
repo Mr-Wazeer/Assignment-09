@@ -1,0 +1,25 @@
+*{
+    margin: 1%;
+    padding: 0%;
+}
+header nav ul a{
+    display: inline-flex;
+    justify-items: right;
+    
+}
+
+.Product_01{
+    display: flex; 
+}
+
+.Product_01 figure img{
+    border-radius: 8%;
+    
+}
+
+.Product_01 figure{
+    border: 1px solid;
+    border-radius: 8%;
+    padding: 10px;
+ 
+}
